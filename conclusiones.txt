@@ -1,0 +1,9 @@
+Los test del ejercicio fueron validados con exito de acuerdo a los requerimientos planeados.
+
+Se uso un escenario con 8 pasos para el ejercicio propuesto, cuyo resultados fueron exitosos:
+
+1 Scenarios (1 passed)
+8 Steps (8 passed)
+0m34.925s
+
+
